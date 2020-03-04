@@ -1,1 +1,3 @@
-CREATE DATABASE Sterenstelsel;
+CREATE TABLE planeten (
+	naam INT
+);
